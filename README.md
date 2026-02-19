@@ -1,4 +1,4 @@
-# Stripe Integration Projects on GitHub - (Django)
+# Stripe Integration Projects on GitHub - (Django and NextJs)
 
 This document provides an overview of notable Stripe integration projects available on GitHub. These projects demonstrate various approaches to integrating Stripe's payment processing capabilities across different technology stacks and use cases.
 
